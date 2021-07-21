@@ -1,5 +1,6 @@
 {
   "name": "@astrojs/astro-test-builtins-polyfillnode",
+  "private": true,
   "version": "1.2.0",
   "dependencies": {
     "file-url": "4.0.0"

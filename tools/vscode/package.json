@@ -12,6 +12,7 @@
   "author": "Astro",
   "license": "MIT",
   "publisher": "astro-build",
+  "private": true,
   "scripts": {
     "vscode:prepublish": "yarn build",
     "vscode:publish": "node ./scripts/publish.mjs",
