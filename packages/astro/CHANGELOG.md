@@ -1,5 +1,11 @@
 # astro
 
+## 0.18.0-next.3
+
+### Patch Changes
+
+- 4a601ad: Restores the ability to use Fragment in astro components
+
 ## 0.18.0-next.2
 
 ### Minor Changes
